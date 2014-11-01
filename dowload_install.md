@@ -4,7 +4,7 @@ Dolly_Bot
 Un "amico" con cui parlare ;)
 ____________________________
 
-Download Dolly 0.02
+Download Dolly 0.03.1 Macropard Loader
 https://www.mediafire.com/?d4b33fckdmcy734
 
 Guida all'Installazione:

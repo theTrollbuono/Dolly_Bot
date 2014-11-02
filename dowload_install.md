@@ -9,3 +9,5 @@ https://www.mediafire.com/?d4b33fckdmcy734
 
 Guida all'Installazione:
 Aprire la cartella .zip, Trovare DollyBot.exe, Divertirsi.
+
+- Daniele d'Intino & Redah Khaled
